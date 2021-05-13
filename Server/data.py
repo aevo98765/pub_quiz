@@ -1,0 +1,28 @@
+users = {"Monty": {"password": "helloworld", "victories": 100}}
+
+questions = {1: {"question": "Friends star Lisa Kudrow was originally cast in the sitcom Frasier.",
+                 "answer": True},
+             2: {"question": "If you’re born between May 1st and 20th, then you’re a Gemini.",
+                 "answer": False},
+             3: {"question": "There are over 2,500 stars on the Hollywood Walk of Fame.",
+                 "answer": True},
+             4: {"question": "Fruit flies were the first living creatures sent into space.",
+                 "answer": True},
+             5: {"question": "Cyclones spin in a clockwise direction in the southern hemisphere.",
+                 "answer": True},
+             6: {"question": "Goldfish only have a memory of three seconds.",
+                 "answer": False},
+             7: {"question": "Dolly Parton is the godmother of Miley Cyrus.",
+                 "answer": True},
+             8: {"question": "Roger Federer has won the most Wimbledon titles of any player.",
+                 "answer": False},
+             9: {"question": "An octopus has five hearts.",
+                 "answer": False},
+             10: {"question": "Brazil is the only country in the Americas to have the official language of Portuguese.",
+                 "answer": True},
+             11: {"question": "The Channel Tunnel is the longest rail tunnel in the world.",
+                 "answer": False},
+             12: {"question": "Darth Vader famously says the line “Luke, I am your father” in The Empire Strikes Back.",
+                 "answer": False},
+
+             }
